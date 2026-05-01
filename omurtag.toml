@@ -1,0 +1,5 @@
+[template]
+name = "jupyter-notebook"
+description = "Jupyter notebook project with uv"
+stack = ["python", "jupyter"]
+author = ""
